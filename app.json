@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "recipesearch",
+    "slug": "recipesearch",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "recipesearch"
+}
